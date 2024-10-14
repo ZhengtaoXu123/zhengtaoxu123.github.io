@@ -67,3 +67,22 @@ div.lazy {
     font-family: Courier, monospace;
 }
 
+#rotating-footer-text {
+    transition: opacity 1s ease-in-out;
+}
+
+.fade-out {
+    opacity: 0;
+}
+
+.centered-img img{
+    display: flex;       /* 设置flex布局 */
+    justify-content: center; /* 水平居中 */
+    align-items: center;     /* 垂直居中 */
+    /* height: 100%;        设置高度为父容器的100% */
+}
+
+.tighter-spacing {
+    padding-right: 5px; /* 减小右侧内边距 */
+    padding-left: 5px;  /* 减小左侧内边距 */
+}

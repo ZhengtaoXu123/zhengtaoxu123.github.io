@@ -1,33 +1,44 @@
-primary_name: "Your Name"
+primary_name: "Zhengtao Xu"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Zhengtao Xu"
 
-positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+# positions:
+# - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+#   name: Position 1 with logo
+# - name: Position 2 without logo
 
 
-email: "your@email.com"
+email: "xuzhengtao@u.nus.edu"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
+gscholar: 7zEDfa8AAAAJ  # This is an example, replace it with your own Google Scholar ID
+github: Zhengtaoxu123
+# twitter: your_twitter_id  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-# linkedin: your-linked-in-id
+linkedin: zhengtao-xu-200a19197
 # orcid: 0000-0000-0000-0000
 
-short_bio_text_justify: false
+short_bio_text_justify: true
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I am currently a Master student at <a href="https://www.comp.nus.edu.sg/">School of Computing</a>, 
+    <a href="https://nus.edu.sg/">National University of Singapore</a>, working on <strong>human-computer interaction (HCI)</strong>.
+    I am a part of <a href="https://www.ai4sg.org/"> AI4SG Lab </a>, advised by Prof. <a href="https://www.yclee.net/"> Yi-Chieh (EJ) Lee </a>.
+    My research focuses on HCI/HAI and is mainly divided into two parts. The first part involves understanding 
+    human behavior when using AI/computer systems, such as understanding how LLMs' verbalized uncertainty affects 
+    human users' behaviors in decision-making tasks. The second part involves building AI systems to help human 
+    users better understand the world and bring them benefits, such as my current work on personalized learning 
+    with LLMs.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+  I earned my bachelor's degree in Computer Science and Technology from <a href="http://ckc.zju.edu.cn/ckcen/">Chu Kochen Honors College</a>, <a href="https://www.zju.edu.cn/english/">Zhejiang University</a>, 
+  in 2023. During my undergraduate studies, I had the opportunity to work on several research projects 
+  in computer vision and computer graphics at the <a href="http://www.cad.zju.edu.cn/english.html">State Key Lab of CAD&CG</a>.
+  </p>
+  <p>
+  If you share research interests or have topics to discuss, please feel free to contact me. 
+  I'm always open to potential collaborations and insightful discussions.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -35,16 +46,18 @@ portrait_caption: >-
   Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+- name: National University of Singapore, Singapore
+  logo: /assets/images/badges/nus_logo_2.jpg
+  position: PhD in Computer Science 
+  date: Jan. 2025 - ?
+- name: National University of Singapore, Singapore
+  logo: /assets/images/badges/nus_logo_2.jpg
+  position: Master of Computing (Artificial Intelligence) 
+  date: Aug. 2023 - Dec. 2024
+- name: Zhejiang University, Hangzhou, China
+  logo: /assets/images/badges/ZJU_logo.jpeg
+  position: Bachelor in Computer Science and Technology
+  date: Sep. 2019 - Jun. 2023
 
 # experience:
 # - name: Peking University
@@ -52,10 +65,10 @@ education:
 #   position: Research Intern
 #   date: Sep. 2019 - Jul. 2021
 
-awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+# awards:
+# - name: Award Name 2
+#   date: 2024
+# - name: Award Name 1 
+#   date: 2021
+# - name: A quick brown fox jumps over the lazy dog and runs away award
+#   date: 2021

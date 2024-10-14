@@ -2,16 +2,27 @@
 show: true
 width: 4
 date: 2021-09-12 00:01:00 +0800
-height: 295px
+height: 250px
 images:
-- src: https://picsum.photos/seed/first1111/800/800
-  title: Photo 1
-  desc: Description 1.
-  link: https://picsum.photos/
-- src: https://picsum.photos/seed/second22/800/800
-  title: Photo 2
-  desc: Description 2
-- src: https://picsum.photos/seed/third33/800/800
+- src: /assets/images/photos/cambridge.pic.jpg
+  desc: Cambridge
+- src: /assets/images/photos/macau.pic.jpg
+  desc: Macau
+- src: /assets/images/photos/sanya.pic.jpg
+  desc: Sanya
+- src: /assets/images/photos/sewu.pic.jpg
+  desc: Surabaya
+- src: /assets/images/photos/sg.pic.jpg
+  desc: Singapore
+- src: /assets/images/photos/guangxi.pic.jpg
+  desc: Chongzuo
+- src: /assets/images/photos/edinburgh.pic.jpg
+  desc: Edinburgh
+- src: /assets/images/photos/manchester.pic.jpg
+  desc: Manchester
+- src: /assets/images/photos/hangzhou.pic.jpg
+  desc: Hangzhou
+
 ---
 
 {% include widgets/carousel.html id=page.id images=page.images height=page.height %}

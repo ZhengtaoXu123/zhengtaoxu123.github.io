@@ -8,9 +8,34 @@
             </div>
             <div class="col-6">
                 <div class="text-right text-muted">
-                    {{ site.data.display.footer_text }}
+                    <div id="rotating-footer-text">{{ site.data.display.footer_text[0] }}</div>
                 </div>
             </div>
         </div>
     </div>
 </footer>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    var phrases = [
+        {% for phrase in site.data.display.footer_text %}
+            "{{ phrase | escape }}"{{ "," unless forloop.last }}
+        {% endfor %}
+    ];
+
+    var currentIndex = 0;
+    var textElement = document.getElementById('rotating-footer-text');
+    textElement.innerText = phrases[currentIndex];
+
+    setInterval(function() {
+        textElement.classList.add('fade-out');
+
+        setTimeout(function() {
+            currentIndex = (currentIndex + 1) % phrases.length;
+            textElement.innerText = phrases[currentIndex];
+
+            textElement.classList.remove('fade-out');
+        }, 1000);
+    }, 10000);
+});
+</script>

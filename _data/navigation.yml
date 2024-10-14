@@ -5,3 +5,5 @@ pages:
   url: /publications
 - name: Showcase
   url: /showcase
+- name: CV
+  url: /assets/pdf/cv.pdf
