@@ -15,4 +15,6 @@ authors:
   - Zhengtao Xu
   - Tianqi Song
   - Yi-Chieh Lee
+links:
+  Paper: https://www.sciencedirect.com/science/article/pii/S1071581925000126
 ---
