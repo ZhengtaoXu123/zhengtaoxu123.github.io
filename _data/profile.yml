@@ -25,24 +25,20 @@ short_bio: >-
     I am currently a first-year PhD student at <a href="https://www.comp.nus.edu.sg/">School of Computing</a>, 
     <a href="https://nus.edu.sg/">National University of Singapore</a>, working on <strong>human-computer interaction (HCI)</strong>.
     I am a part of <a href="https://www.ai4sg.org/"> AI4SG Lab </a>, advised by Prof. <a href="https://www.yclee.net/"> Yi-Chieh (EJ) Lee </a>.
-    My research focuses on HCI/HAI and is mainly divided into two parts. The first part involves understanding 
-    human behavior when using AI/computer systems, such as understanding how LLMs' verbalized uncertainty affects 
-    human users' behaviors in decision-making tasks. The second part involves building AI systems to help human 
-    users better understand the world and bring them benefits, such as my current work on implementing chatbots 
-    for learning using the Feynman technique.
+    My current research focuses on AI for eduction/communication, AI-assisted decision making. I'm also interested in building interactive systems that bring positive social impact.
   </p>
   <p>
-  I earned my bachelor's degree in Computer Science and Technology from <a href="http://ckc.zju.edu.cn/ckcen/">Chu Kochen Honors College</a>, <a href="https://www.zju.edu.cn/english/">Zhejiang University</a>, 
+  I earned my bachelor's degree in Computer Science and Technology from <a href="http://ckc.zju.edu.cn/ckcen/">Chu Kochen Honors College</a>, <a href="https://www.zju.edu.cn/english/">Zhejiang University</a> 
   in 2023. During my undergraduate studies, I had the opportunity to work on several research projects 
   in computer vision and computer graphics at the <a href="http://www.cad.zju.edu.cn/english.html">State Key Lab of CAD&CG</a>.
   </p>
   <p>
-  If you share research interests or have topics to discuss, please feel free to contact me. 
-  I'm always open to potential collaborations and insightful discussions.
+  If you share research interests or have topics to discuss, feel free to contact me. 
+  I'm open to collaborations and discussions.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: 
+portrait_url: /assets/images/photos/portrait1.jpg
+portrait_caption: Mount Fuji, Japan (April 2025)
 
 education:
 - name: National University of Singapore, Singapore
