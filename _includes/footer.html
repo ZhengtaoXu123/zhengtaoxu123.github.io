@@ -19,23 +19,23 @@
 document.addEventListener('DOMContentLoaded', function() {
     var phrases = [
         {% for phrase in site.data.display.footer_text %}
-            "{{ phrase | escape }}"{{ "," unless forloop.last }}
+            {{ phrase | jsonify }}{{ "," unless forloop.last }}
         {% endfor %}
     ];
 
     var currentIndex = 0;
     var textElement = document.getElementById('rotating-footer-text');
-    textElement.innerText = phrases[currentIndex];
+    textElement.innerHTML = phrases[currentIndex];
 
     setInterval(function() {
         textElement.classList.add('fade-out');
 
         setTimeout(function() {
             currentIndex = (currentIndex + 1) % phrases.length;
-            textElement.innerText = phrases[currentIndex];
+            textElement.innerHTML = phrases[currentIndex];
 
             textElement.classList.remove('fade-out');
         }, 1000);
-    }, 10000);
+    }, 30000);
 });
 </script>

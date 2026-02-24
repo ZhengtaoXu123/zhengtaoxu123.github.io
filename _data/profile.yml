@@ -1,6 +1,6 @@
-primary_name: "Zhengtao Xu"
+primary_name: "About Me"
 secondary_name: ""
-navbar_name: "Zhengtao Xu"
+navbar_name: "Zhengtao Xu 徐正韬"
 
 # positions:
 # - logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
@@ -21,20 +21,31 @@ linkedin: zhengtao-xu-200a19197
 
 short_bio_text_justify: true
 short_bio: >-
-  <p>
-    I am currently a second-year PhD student at <a href="https://www.comp.nus.edu.sg/">School of Computing</a>, 
-    <a href="https://nus.edu.sg/">National University of Singapore</a>, working on <strong>human-computer interaction (HCI)</strong>.
-    I am a part of <a href="https://www.ai4sg.org/"> AI4SG Lab </a>, advised by Prof. <a href="https://www.yclee.net/"> Yi-Chieh (EJ) Lee </a>.
-    My current research focuses on AI for eduction/communication, AI-assisted decision making. I'm also interested in building interactive systems that bring positive social impact.
+  <p style="text-align: left;">
+  I am Zhengtao Xu (徐正韬), currently a 2nd PhD student at the <a href="https://www.comp.nus.edu.sg/" target="_blank">School of Computing</a>, 
+  <a href="https://nus.edu.sg/" target="_blank">National University of Singapore</a>, working on <strong>human-computer interaction (HCI)</strong>.
+  I'm part of the <a href="https://www.ai4sg.org/" target="_blank">AI4SG Lab</a>, advised by Prof. 
+  <a href="https://www.yclee.net/" target="_blank">Yi-Chieh (EJ) Lee</a>.
+
+  My current research focuses on 
+  <span class="research-focus">AI in Education (AIED)</span>, 
+  <span class="research-focus">AI-Assisted Decision Making</span>, and 
+  <span class="research-focus">AI-Mediated Communication (AI-MC)</span>.
+
+  I'm also interested in building interactive systems that bring positive social impact.
   </p>
-  <p>
-  I earned my bachelor's degree in Computer Science and Technology from <a href="http://ckc.zju.edu.cn/ckcen/">Chu Kochen Honors College</a>, <a href="https://www.zju.edu.cn/english/">Zhejiang University</a> 
-  in 2023. During my undergraduate studies, I had the opportunity to work on several research projects 
-  in computer vision and computer graphics at the <a href="http://www.cad.zju.edu.cn/english.html">State Key Lab of CAD&CG</a>.
+
+  <p style="text-align: left;">
+  Prior to my PhD, I received my B.E. in Computer Science and Technology from the
+  <a href="http://ckc.zju.edu.cn/ckcen/" target="_blank">Chu Kochen Honors College</a>, 
+  <a href="https://www.zju.edu.cn/english/" target="_blank">Zhejiang University</a> in Jun. 2023. 
+  From Aug. 2023 to Dec. 2024, I studied Master of Computing (Artificial Intelligence) at 
+  the School of Computing, National University of Singapore, 
+  where I developed my interest in HCI.
   </p>
-  <p>
-  If you share research interests or have topics to discuss, feel free to contact me. 
-  I'm open to collaborations and discussions.
+
+  <p style="text-align: left;">
+  I am also a gym enthusiast and football lover.
   </p>
 
 portrait_url: /assets/images/photos/portrait1.jpg
