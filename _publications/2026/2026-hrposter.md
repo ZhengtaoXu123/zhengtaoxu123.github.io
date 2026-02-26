@@ -10,7 +10,7 @@ pub:            "Extended Abstracts of the CHI Conference on Human Factors in Co
 
 abstract: >-
   Recruitment interviews are cognitively demanding interactions in which interviewers must simultaneously listen, evaluate candidates, take notes, and formulate follow-up questions. To better understand these challenges, we conducted a formative study with eight HR professionals, from which we derived key design goals for real-time AI support. Guided by these insights, we developed InterPilot, a prototype system that augments interviews through intelligent note-taking and post-interview summary, adaptive question generation, and real-time skill–evidence mapping. We evaluated the system with another seven HR professionals in mock interviews using a within-subjects design. Results show that InterPilot reduced documentation burden without increasing overall workload, but introduced usability trade-offs related to visual attention and interaction complexity. Qualitative findings further reveal tensions around trust and verification when AI suggests highly specific technical questions. We discuss implications for designing future real-time human–AI collaboration in professional settings, highlighting the need to balance assistance granularity, attentional demands, and human agency.
-cover:          /assets/images/covers/hr_system_interface1.png
+cover:          /assets/images/covers/hr_screenshot.png
 authors:
   - Zhengtao Xu
   - Zimo Xia
@@ -22,4 +22,5 @@ authors:
   - Yi-Chieh Lee
 links:
   Paper: https://arxiv.org/abs/2602.20891
+  Video: https://drive.google.com/file/d/14m1LB2qzS1XoZlQEj4e9n--2sDs_5kx2/view?usp=sharing
 ---
