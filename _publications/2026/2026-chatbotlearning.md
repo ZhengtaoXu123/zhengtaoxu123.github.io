@@ -5,7 +5,7 @@ selected:       true
 pub:            "ACM CHI conference on Human Factors in Computing Systems (CHI 26)"
 # pub_pre:        "Submitted to "
 # pub_post:       "(Under review)"
-# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+pub_last:       ' <span class="badge badge-pill badge-publication badge-success">🏅 Honourable Mention</span>'
 # pub_date:       "2026"
 
 abstract: >-
