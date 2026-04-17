@@ -21,6 +21,6 @@ authors:
   - Casimiro Pio Carrino
   - Yi-Chieh Lee
 links:
-  Paper: https://arxiv.org/abs/2602.20891
+  Paper: https://doi.org/10.1145/3772363.3798373
   Video: https://drive.google.com/file/d/14m1LB2qzS1XoZlQEj4e9n--2sDs_5kx2/view?usp=sharing
 ---

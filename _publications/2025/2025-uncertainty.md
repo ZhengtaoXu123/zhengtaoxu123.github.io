@@ -16,5 +16,5 @@ authors:
   - Tianqi Song
   - Yi-Chieh Lee
 links:
-  Paper: https://www.sciencedirect.com/science/article/pii/S1071581925000126
+  Paper: https://doi.org/10.1016/j.ijhcs.2025.103455
 ---

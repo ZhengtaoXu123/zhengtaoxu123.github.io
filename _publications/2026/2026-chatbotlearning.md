@@ -17,5 +17,5 @@ authors:
   - Anthony Tang
   - Yi-Chieh Lee
 links:
-  Paper: https://arxiv.org/abs/2601.16583
+  Paper: https://doi.org/10.1145/3772318.3790298
 ---
