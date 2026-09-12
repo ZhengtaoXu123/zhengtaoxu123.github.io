@@ -34,6 +34,79 @@ h1, h2, h3, h4, h5, h6,
     white-space: nowrap;
 }
 
+.news-card .media-body {
+    min-width: 0;
+}
+
+.news-item {
+    display: flex;
+    align-items: baseline;
+    gap: 0.875rem;
+}
+
+.news-content {
+    flex: 1;
+    min-width: 0;
+    overflow-wrap: anywhere;
+}
+
+.news-card .fa-user-group {
+    font-size: 0.8em;
+}
+
+.news-date {
+    flex: 0 0 2rem;
+    text-align: right;
+    white-space: nowrap;
+}
+
+/* Link categories are distinguished by both color and typography. */
+.news-card .news-link {
+    color: #007bff;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1px;
+}
+
+.news-card .news-link--event {
+    padding: 0.08em 0.35em;
+    border-radius: 0.25em;
+    background-color: #e7f1ff;
+    font-weight: 700;
+    text-decoration: none;
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+}
+
+.news-card .news-link--paper {
+    font-size: 0.875rem;
+    font-style: italic;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+}
+
+.news-card .news-link--person {
+    font-weight: 700;
+    text-decoration-line: underline;
+    text-decoration-style: dotted;
+}
+
+.news-card .news-link:hover {
+    color: #0056b3;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-decoration-thickness: 2px;
+}
+
+.news-card .news-link--paper,
+.news-card .news-link--paper:hover {
+    color: #000;
+}
+
+.news-card .news-link:focus-visible {
+    outline: 2px solid #0056b3;
+    outline-offset: 3px;
+}
+
 .cover-image {
     width: 180px;
     max-height: 120px;
